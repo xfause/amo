@@ -1,2 +1,0 @@
-# amo
-amo's blog
